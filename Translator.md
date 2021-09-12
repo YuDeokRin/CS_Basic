@@ -2,9 +2,7 @@
 
 # 번역기들
 
-번연기의 종류 
 
-![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%A6%2084cdad821f154ca5b156a67520db82e4/Untitled.png)
 
 ## 1.Complier
 
@@ -16,7 +14,7 @@
 
 - 오류를 발견하고 코드를 최적화하기 위해 컴파일러를 사용한다. 사용자가 소스코드를 작성하면 컴파일 →목적 코드와 라이브러리 연결 → 동적 라이브러리를 포함하여 최종 실행의 순서로 작동한다.
 
-![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%A6%2084cdad821f154ca5b156a67520db82e4/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/56623911/132974101-24783ced-070b-4baf-8bbd-8b8b020bfe41.png)
 
 3) 컴파일러의 필요성
 
@@ -36,4 +34,10 @@
 
 인터프리터는 고급 명령어들을 중간 형태로 변역한 다음 실행한다.
 
-![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%A6%2084cdad821f154ca5b156a67520db82e4/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/56623911/132974104-ee72e04b-5cc3-46e7-910f-5731a87e74f7.png)
+
+
+
+## 그 외 번역기
+
+![Untitled](https://user-images.githubusercontent.com/56623911/132974094-2fb090f8-1cae-41d3-8351-b46185fdde14.png)
